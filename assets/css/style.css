@@ -1,0 +1,53 @@
+
+nav{
+  border-bottom: solid
+}
+.btn{
+  margin: 0 20px 0 20px;
+}
+.btn:hover{
+  background-color: #fe6081;
+}
+.navbar-brand{
+  font-size: 50pt;
+}
+body{
+  background-color: rgb(252, 209, 216);
+}
+.col-md-8{
+  border: solid 1px;
+  padding: 20px;
+  margin: 20px 20px 0 0;
+  font-size: 14pt;
+  background-color: #f8f9fa;
+}
+.col-md-3{
+  padding: 10px;
+  border: solid 1px;
+  text-align: center;
+  margin: 20px;
+  float: right;
+  background-color: #f8f9fa;
+  
+}
+.auth-image{
+  width: 200px;
+  height: auto;
+  margin: 0 20px 0 0;
+}
+ 
+.social{
+  width: 62px;
+  height: 62px;
+}
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #6b747d;
+  border-top: 8px solid #fe6081;
+}
